@@ -27,5 +27,6 @@ public class TiposPrimitivos {
         System.out.println(
                 STR."x0 = \{x0}\nx1 = \{x1}\nx2 = \{x2}\nx3 = \{x3}\nx4 = \{x4}\nx5 = \{x5}\nx6 = \{x6}\nx7 = \{x7}\n"
         );
+        System.out.println();
     }
 }

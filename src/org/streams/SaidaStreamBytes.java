@@ -2,7 +2,7 @@ package org.streams;
 
 import java.io.*;
 
-public class StreamByte {
+public class SaidaStreamBytes {
 
     public static void main(String[] args) {
 
